@@ -56,4 +56,4 @@ Aplikasi ini saat ini dalam versi demo dan mungkin belum mencakup semua fitur at
 
 ## Lisensi
 
-Written by Hilmi Abdullah 
+Written by Hilmi Abdullah https://github.com/Hlmdul
