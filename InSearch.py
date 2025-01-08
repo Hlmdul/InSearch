@@ -89,7 +89,7 @@ def run_gui():
     # GUI Layout
     global root
     root = ctk.CTk()
-    root.title("Document Search")
+    root.title("InSearch Beta 0.1") 
     # root.geometry("800x600")
     root.maxsize(1024, 768)
 
